@@ -1,4 +1,6 @@
 print("hello world");
 print("hi");
 
-print("gfgg");
+print("gfgg")
+print("hi adv")
+print("ffghh")
