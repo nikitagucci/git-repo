@@ -1,5 +1,5 @@
 print("hello world");
-print("hi")
+print("hi");
 
 print("gfgg")
 print("hi adv")
